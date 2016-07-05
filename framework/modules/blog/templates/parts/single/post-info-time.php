@@ -1,0 +1,1 @@
+<div class="edgtf-post-info-time"><?php the_time(get_option('time_format')); ?></div>

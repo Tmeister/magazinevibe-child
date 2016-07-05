@@ -1,0 +1,1 @@
+<div class="edgtf-post-info-count"><span class="edgtf-post-count-number"><?php echo magazinevibe_edge_get_post_count_views(magazinevibe_edge_get_page_id()); ?></span><span class="edgtf-post-count-text"><?php esc_html_e('Views','magazinevibe'); ?></span></div>

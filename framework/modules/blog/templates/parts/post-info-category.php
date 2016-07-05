@@ -1,0 +1,1 @@
+<div class="edgtf-post-info-category"><?php esc_html_e('in ','magazinevibe'); ?><?php the_category(', '); ?></div>
