@@ -94,7 +94,7 @@ if(get_post_meta($id, "edgtf_post_disable_feature_image", true) === "yes") {
 				</div>
 
 				<div class="top-content">
-					<?php echo do_shortcode('[bsa_pro_ad_space id=8 if_empty=17]'); ?>
+					<?php echo do_shortcode('[bsa_pro_ad_space id=8 if_empty=17 crop=no]'); ?>
 				</div>
 
 				<?php if($display_feature_image && $feature_image_style !== 'edgtf-data-inside-title') { magazinevibe_edge_get_module_template_part('templates/single/parts/image', 'blog'); } ?>
